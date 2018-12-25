@@ -21,7 +21,7 @@ For more information, please contact dat.tranthanh@tut.fi
 
 If you use TABL in your work, please cite the following paper:
 
-<prev>
+<pre>
 @article{tran2018temporal,
   title={Temporal Attention-Augmented Bilinear Network for Financial Time-Series Data Analysis},
   author={Tran, Dat Thanh and Iosifidis, Alexandros and Kanniainen, Juho and Gabbouj, Moncef},
@@ -29,4 +29,4 @@ If you use TABL in your work, please cite the following paper:
   year={2018},
   publisher={IEEE}
 }
-</prev>
+</pre>
