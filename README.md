@@ -19,7 +19,7 @@ For more information, please contact dat.tranthanh@tut.fi
 
 # Citation
 
-If you use TABL in your work, please cite the following paper
+If you use TABL in your work, please cite the following paper:
 
 <prev>
 @article{tran2018temporal,
