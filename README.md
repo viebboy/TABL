@@ -15,7 +15,7 @@ The naming convention follows our paper, examples how to use our code can be see
 - example_bl.py (BL)
 - example_tabl.py (TABL)
 
-For more information, please contact dat.tranthanh@tut.fi
+For more information, please contact dat.tranthanh@tut.fi or viebboy@gmail.com
 
 # Citation
 
